@@ -46,26 +46,26 @@
 
 Clone the project
 
-```bash
-  git clone https://github.com/Faizan7/Activity-Tracker.git
+```bash / zsh
+  git clone https://github.com/shubhojeet1/Data-Visualization-Task.git
 ```
 
 Go to the project directory
 
-```bash
-  cd activity-tracker
+```bash / zsh
+  cd Data-Visualization-Task
 ```
 
 Install dependencies
 
-```bash
-  npm install
+```bash / zsh
+  yarn install
 ```
 
 Start the server
 
-```bash
-  npm run start
+```bash / zsh
+  yarn start
 ```
 
 
